@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React Native, Flutter**
 
-- 👯 I’m looking to collaborate on **Mobile Application Apps**
+- 👯 I’m looking to collaborate on **Mobile Applications**
 
 - 📫 How to reach me **fahadiqbalaps@gmail.com**
 
